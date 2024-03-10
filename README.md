@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Aman Joshi</h1>
 <h3 align="center">Passionate Emerging Tech Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="AmanJoshi.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingworld-007&label=Profile%20views&color=0e75b6&style=flat" alt="codingworld-007" /> </p>
 
+- 🔭 I’m currently working on **Machine Learning**
+
 - 🌱 I’m currently learning **B.Tech CSE with specialization in AI/ML**
+
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC2FbeE76MdfrES1r0DH8fjw](https://www.youtube.com/channel/UC2FbeE76MdfrES1r0DH8fjw)
 
 - 💬 Ask me about **Machine Learning, Data Structures & programming languages**
 
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingworld-007&show_icons=true&locale=en" alt="codingworld-007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingworld-007&" alt="codingworld-007" /></p>
+
