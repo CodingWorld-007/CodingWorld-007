@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Joshi</h1>
 <h3 align="center">Passionate Emerging Tech Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="CODINGWORLD.gif">
+<img align="right" alt="coding" width="400" src="AmanJoshi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingworld-007&label=Profile%20views&color=0e75b6&style=flat" alt="codingworld-007" /> </p>
 
