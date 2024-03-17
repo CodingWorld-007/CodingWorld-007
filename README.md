@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aman Joshi</h1>
 <h3 align="center">Passionate Emerging Tech Enthusiast</h3>
 
+<img align = "right" alt = "AMAN_JOSHI" width = "350" src = "AmanJoshi.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingworld-007&label=Profile%20views&color=0e75b6&style=flat" alt="codingworld-007" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
