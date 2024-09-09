@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **B.Tech CSE with specialization in AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC2FbeE76MdfrES1r0DH8fjw](https://www.youtube.com/channel/UC2FbeE76MdfrES1r0DH8fjw)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/@codingworld_official](https://www.youtube.com/@codingworld_official)
 
 - 💬 Ask me about **Machine Learning, Data Structures & programming languages**
 
